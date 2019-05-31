@@ -5,7 +5,10 @@ Can not use Java built in List interface
 2. Remove the tail element from a linkedlist
 3. Remove all element in the linkedlist that is great than a target value
 
-Now, NxSinglyLinkedList: 
+# Output :
+
+
+ Now, NxSinglyLinkedList: 
 
 1 inserted.
 
@@ -39,18 +42,12 @@ Now, NxSinglyLinkedList:
 
  Now, NxSinglyLinkedList: 1 2 3 4 5 6 7 8 
 
-1 found and deleted
+Remove Tail node
 
- Now, NxSinglyLinkedList: 2 3 4 5 6 7 8 
+ Now, NxSinglyLinkedList: 1 2 3 4 5 6 7 
 
-4 found and deleted
+Remove All node is grater than : 5
 
- Now, NxSinglyLinkedList: 2 3 5 6 7 8 
+ Now, NxSinglyLinkedList: 1 2 3 4 5 
 
-0 position element deleted
 
- Now, NxSinglyLinkedList: 3 5 6 7 8 
-
-2 position element deleted
-
- Now, NxSinglyLinkedList: 3 5 7 8 
